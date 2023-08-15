@@ -4,4 +4,4 @@ Repositorio con el material de trabajo del curso de Métodos Numéricos y progra
 Agosto-Diciembre 2023
 
 
-<img src="img/newton-method.jpeg" alt="Método de Newton" width="500"/>
+<img src="img/newton-method.jpeg" alt="Método de Newton" width="500" class="center"/>
